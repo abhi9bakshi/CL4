@@ -1,0 +1,12 @@
+student@CC:~/Downloads$ make Quick
+g++     Quick.cpp   -o Quick
+student@CC:~/Downloads$ ./Quick
+Enter the size of the array = 4
+Enter the elements in the array = 
+4
+3
+2
+1
+Quick Sort:
+[1, 2, 3, 4]
+student@CC:~/Downloads$

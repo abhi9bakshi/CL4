@@ -1,0 +1,383 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.3.28)  6 APR 2016 04:16
+entering extended mode
+**A6_BIA_MaxProfit.tex
+(A6_BIA_MaxProfit.tex
+LaTeX2e <2014/05/01>
+Babel <3.9l> and hyphenation patterns for 68 languages loaded.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size12.clo"
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count87
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count88
+\Gm@cntv=\count89
+\c@Gm@tempcnt=\count90
+\Gm@bindingoffset=\dimen105
+\Gm@wd@mp=\dimen106
+\Gm@odd@mp=\dimen107
+\Gm@even@mp=\dimen108
+\Gm@layoutwidth=\dimen109
+\Gm@layoutheight=\dimen110
+\Gm@layouthoffset=\dimen111
+\Gm@layoutvoffset=\dimen112
+\Gm@dimlist=\toks15
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\listings.sty"
+\lst@mode=\count91
+\lst@gtempboxa=\box26
+\lst@token=\toks16
+\lst@length=\count92
+\lst@currlwidth=\dimen113
+\lst@column=\count93
+\lst@pos=\count94
+\lst@lostspace=\dimen114
+\lst@width=\dimen115
+\lst@newlines=\count95
+\lst@lineno=\count96
+\lst@maxwidth=\dimen116
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstmisc.sty"
+File: lstmisc.sty 2014/09/06 1.5e (Carsten Heinz)
+\c@lstnumber=\count97
+\lst@skipnumbers=\count98
+\lst@framebox=\box27
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\listings.cfg"
+File: listings.cfg 2014/09/06 1.5e listings configuration
+))
+Package: listings 2014/09/06 1.5e (Carsten Heinz)
+
+
+Package geometry Warning: Over-specification in `h'-direction.
+    `width' (597.50787pt) is ignored.
+
+
+Package geometry Warning: Over-specification in `v'-direction.
+    `height' (845.04684pt) is ignored.
+
+(A6_BIA_MaxProfit.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+
+("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count99
+\scratchdimen=\dimen117
+\scratchbox=\box28
+\nofMPsegments=\count100
+\nofMParguments=\count101
+\everyMPshowfont=\toks17
+\MPscratchCnt=\count102
+\MPscratchDim=\dimen118
+\MPnumerator=\count103
+\makeMPintoPDFobject=\count104
+\everyMPtoPDFconversion=\toks18
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(56.9055pt, 483.69687pt, 56.9055pt)
+* v-part:(T,H,B)=(56.9055pt, 731.23584pt, 56.9055pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=483.69687pt
+* \textheight=731.23584pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-52.36449pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\c@lstlisting=\count105
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 38.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 38.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 43.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 43.
+Missing character: There is no √ in font cmbx12!
+Missing character: There is no Ø in font cmbx12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ò in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+
+<equation.jpg, id=1, 173.14688pt x 55.70813pt>
+File: equation.jpg Graphic file (type jpg)
+ <use equation.jpg>
+Package pdftex.def Info: equation.jpg used on input line 92.
+(pdftex.def)             Requested size: 86.57323pt x 27.85399pt.
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ò in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+ [1
+
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <./equation.jpg>]
+Missing character: There is no √ in font cmr12!
+Missing character: There is no Ø in font cmr12!
+
+<nb.png, id=11, 347.04657pt x 230.36063pt>
+File: nb.png Graphic file (type png)
+ <use nb.png>
+Package pdftex.def Info: nb.png used on input line 102.
+(pdftex.def)             Requested size: 173.52286pt x 115.18002pt.
+ [2 <./nb.png>]
+<kmeanseg.png, id=17, 448.67625pt x 137.01187pt>
+File: kmeanseg.png Graphic file (type png)
+ <use kmeanseg.png>
+Package pdftex.def Info: kmeanseg.png used on input line 108.
+(pdftex.def)             Requested size: 448.67516pt x 137.01154pt.
+
+<nb1.png, id=18, 424.58624pt x 334.24875pt>
+File: nb1.png Graphic file (type png)
+ <use nb1.png>
+Package pdftex.def Info: nb1.png used on input line 122.
+(pdftex.def)             Requested size: 424.5852pt x 334.24792pt.
+ [3 <./kmeanseg.png> <./nb1.png>] <nb2.png, id=22, 467.49657pt x 213.79875pt>
+File: nb2.png Graphic file (type png)
+ <use nb2.png>
+Package pdftex.def Info: nb2.png used on input line 130.
+(pdftex.def)             Requested size: 467.49542pt x 213.79822pt.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 135.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 135.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 135.
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+
+Underfull \hbox (badness 10000) in paragraph at lines 135--141
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 185--186
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 196--199
+
+ []
+
+[4 <./nb2.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 207--211
+
+ []
+
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+[5]
+
+LaTeX Warning: File `input-interactive table1 kmeans.png' not found on input li
+ne 239.
+
+<input-interactive table1 kmeans.png, id=30, 1028.34187pt x 578.16pt>
+File: input-interactive table1 kmeans.png Graphic file (type png)
+
+<use input-interactive table1 kmeans.png>
+Package pdftex.def Info: input-interactive table1 kmeans.png used on input line
+ 239.
+(pdftex.def)             Requested size: 308.50494pt x 173.44933pt.
+
+
+LaTeX Warning: File `input-interactive table2 kmeans.png' not found on input li
+ne 246.
+
+<input-interactive table2 kmeans.png, id=31, 1028.34187pt x 578.16pt>
+File: input-interactive table2 kmeans.png Graphic file (type png)
+
+<use input-interactive table2 kmeans.png>
+Package pdftex.def Info: input-interactive table2 kmeans.png used on input line
+ 246.
+(pdftex.def)             Requested size: 308.50494pt x 173.44933pt.
+ [6 <./input-interactive table1 kmeans.png> <./input-interactive table2 kmeans.
+png>]
+<k-means.png, id=35, 727.71875pt x 466.74374pt>
+File: k-means.png Graphic file (type png)
+ <use k-means.png>
+Package pdftex.def Info: k-means.png used on input line 257.
+(pdftex.def)             Requested size: 363.85847pt x 233.37129pt.
+
+<naive_bayes.png, id=36, 741.77126pt x 502.87875pt>
+File: naive_bayes.png Graphic file (type png)
+ <use naive_bayes.png>
+Package pdftex.def Info: naive_bayes.png used on input line 264.
+(pdftex.def)             Requested size: 370.88472pt x 251.43875pt.
+
+[7 <./k-means.png> <./naive_bayes.png>]
+
+LaTeX Warning: File `output-scatter plot k-means.png' not found on input line 2
+74.
+
+<output-scatter plot k-means.png, id=41, 1028.34187pt x 578.16pt>
+File: output-scatter plot k-means.png Graphic file (type png)
+
+<use output-scatter plot k-means.png>
+Package pdftex.def Info: output-scatter plot k-means.png used on input line 274
+.
+(pdftex.def)             Requested size: 308.50494pt x 173.44933pt.
+
+<output-N_B.png, id=42, 361.35pt x 204.01219pt>
+File: output-N_B.png Graphic file (type png)
+ <use output-N_B.png>
+Package pdftex.def Info: output-N_B.png used on input line 281.
+(pdftex.def)             Requested size: 361.34912pt x 204.01169pt.
+
+<output-N-B_histogram.png, id=43, 1028.34187pt x 578.16pt>
+File: output-N-B_histogram.png Graphic file (type png)
+
+<use output-N-B_histogram.png>
+Package pdftex.def Info: output-N-B_histogram.png used on input line 287.
+(pdftex.def)             Requested size: 514.16968pt x 289.07928pt.
+
+Overfull \hbox (37.2728pt too wide) in paragraph at lines 287--288
+ [][] 
+ []
+
+[8 <./output-scatter plot k-means.png> <./output-N_B.png>] [9 <./output-N-B_his
+togram.png>] (A6_BIA_MaxProfit.aux) ) 
+Here is how much of TeX's memory you used:
+ 2894 strings out of 493698
+ 41113 string characters out of 3144394
+ 105906 words of memory out of 3000000
+ 6220 multiletter control sequences out of 15000+200000
+ 9408 words of font info for 33 fonts, out of 3000000 for 9000
+ 1025 hyphenation exceptions out of 8191
+ 27i,7n,32p,455b,340s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/p
+ublic/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/am
+sfonts/cm/cmcsc10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/
+cm/cmmi12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12
+.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/
+Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on A6_BIA_MaxProfit.pdf (9 pages, 715409 bytes).
+PDF statistics:
+ 71 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 61 words of extra memory for PDF output out of 10000 (max. 10000000)
+

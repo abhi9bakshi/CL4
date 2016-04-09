@@ -1,0 +1,250 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.3.28)  5 APR 2016 15:29
+entering extended mode
+**A3_HPC_MPIcoverage.tex
+(A3_HPC_MPIcoverage.tex
+LaTeX2e <2014/05/01>
+Babel <3.9l> and hyphenation patterns for 68 languages loaded.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size12.clo"
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count87
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(A3_HPC_MPIcoverage.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+
+("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count88
+\scratchdimen=\dimen105
+\scratchbox=\box26
+\nofMPsegments=\count89
+\nofMParguments=\count90
+\everyMPshowfont=\toks15
+\MPscratchCnt=\count91
+\MPscratchDim=\dimen106
+\MPnumerator=\count92
+\makeMPintoPDFobject=\count93
+\everyMPtoPDFconversion=\toks16
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 21.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 21.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 58.
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 58.
+ [1
+
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
+Overfull \hbox (3.57657pt too wide) in paragraph at lines 81--83
+[]\OT1/cmr/m/n/12 MPI pri-mar-ily ad-dresses the message-passing par-al-lel pro
+-gram-ming model:
+ []
+
+<MPI_01.jpg, id=10, 364.36125pt x 147.55125pt>
+File: MPI_01.jpg Graphic file (type jpg)
+ <use MPI_01.jpg>
+Package pdftex.def Info: MPI_01.jpg used on input line 90.
+(pdftex.def)             Requested size: 364.36035pt x 147.55087pt.
+
+<MPI_02.png, id=11, 364.36125pt x 147.55125pt>
+File: MPI_02.png Graphic file (type png)
+ <use MPI_02.png>
+Package pdftex.def Info: MPI_02.png used on input line 93.
+(pdftex.def)             Requested size: 364.36035pt x 147.55087pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 93--98
+
+ []
+
+[2 <./MPI_01.jpg>] <MPI_03.jpg, id=16, 334.24875pt x 380.17032pt>
+File: MPI_03.jpg Graphic file (type jpg)
+
+<use MPI_03.jpg>
+Package pdftex.def Info: MPI_03.jpg used on input line 102.
+(pdftex.def)             Requested size: 390.0pt x 443.61409pt.
+ [3 <./MPI_02.png>] [4 <./MPI_03.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 104--108
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--108
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--108
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--108
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--108
+
+ []
+
+<MPI_04.png, id=24, 379.4175pt x 289.83281pt>
+File: MPI_04.png Graphic file (type png)
+ <use MPI_04.png>
+Package pdftex.def Info: MPI_04.png used on input line 109.
+(pdftex.def)             Requested size: 379.41656pt x 289.83209pt.
+
+Overfull \hbox (7.04138pt too wide) in paragraph at lines 109--110
+[][] 
+ []
+
+[5 <./MPI_04.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 112--114
+
+ []
+
+
+Overfull \hbox (1.14038pt too wide) in paragraph at lines 133--134
+[]\OT1/cmr/m/n/12 performance is lim-ited by the com-munca-tion net-work be-twe
+en the nodes 
+ []
+
+[6]
+Overfull \hbox (30.85118pt too wide) in paragraph at lines 141--143
+\OT1/cmr/m/n/12 void* recv[]data, int recv[]count, MPI[]Datatype recv[]datatype
+, int root, MPI[]Comm
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 141--143
+
+ []
+
+
+Overfull \hbox (17.5483pt too wide) in paragraph at lines 141--143
+\OT1/cmr/m/n/12 MPI[]Bcast( void* data, int count, MPI[]Datatype datatype, int 
+root, MPI[]Comm
+ []
+
+<MPI_06.png, id=32, 563.10374pt x 238.64156pt>
+File: MPI_06.png Graphic file (type png)
+ <use MPI_06.png>
+Package pdftex.def Info: MPI_06.png used on input line 144.
+(pdftex.def)             Requested size: 422.32677pt x 178.98071pt.
+
+Overfull \hbox (49.95158pt too wide) in paragraph at lines 144--145
+[][] 
+ []
+
+<MPI_07.png, id=33, 562.35094pt x 274.02374pt>
+File: MPI_07.png Graphic file (type png)
+ <use MPI_07.png>
+Package pdftex.def Info: MPI_07.png used on input line 147.
+(pdftex.def)             Requested size: 421.76216pt x 205.5173pt.
+
+Overfull \hbox (31.76216pt too wide) in paragraph at lines 147--148
+[] 
+ []
+
+[7 <./MPI_06.png> <./MPI_07.png>]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 152.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 152.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 152.
+
+Overfull \hbox (45.4834pt too wide) in paragraph at lines 167--171
+ [] 
+ []
+
+<mpi_plagarism.png, id=38, 616.55344pt x 491.58656pt>
+File: mpi_plagarism.png Graphic file (type png)
+ <use mpi_plagarism.png>
+Package pdftex.def Info: mpi_plagarism.png used on input line 175.
+(pdftex.def)             Requested size: 462.41394pt x 368.68901pt.
+
+Overfull \hbox (72.41394pt too wide) in paragraph at lines 175--176
+[] 
+ []
+
+[8] [9 <./mpi_plagarism.png>] (A3_HPC_MPIcoverage.aux) ) 
+Here is how much of TeX's memory you used:
+ 1191 strings out of 493698
+ 15621 string characters out of 3144394
+ 70126 words of memory out of 3000000
+ 4548 multiletter control sequences out of 15000+200000
+ 9408 words of font info for 33 fonts, out of 3000000 for 9000
+ 1025 hyphenation exceptions out of 8191
+ 27i,6n,19p,353b,185s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTe
+X 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fo
+nts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Program Files/MiKTeX 2.9/fonts/typ
+e1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publi
+c/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfont
+s/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy
+10.pfb>
+Output written on A3_HPC_MPIcoverage.pdf (9 pages, 518165 bytes).
+PDF statistics:
+ 66 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 36 words of extra memory for PDF output out of 10000 (max. 10000000)
+

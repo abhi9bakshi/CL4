@@ -1,0 +1,238 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%TO AVOID FORMATTING ISSUES, COMPILE THIS ONLY AT WWW.OVERLEAF.COM%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%AUTHOR: ABHINAV BAKSHI
+%CLASS:  BE C 302
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\documentclass[a4paper,12pt]{article}
+\usepackage{graphicx}
+%To use this font, you need XeTex or LuaTex, prefer openleaf
+\newenvironment{codefont}{\fontfamily{ccr}\selectfont}{\par}
+
+\title{
+	\normalfont \normalsize 
+	\textsc{Pimpri Chinchwad College of Engineering \\ 
+		Computer Laboratory - IV} \\
+	[10pt] 
+	\rule{\linewidth}{0.5pt} \\[6pt] 
+	\huge Assignment No - B6 \\
+	\rule{\linewidth}{2pt}  \\[10pt]
+}
+\author{}
+\date{\normalsize}
+
+
+\begin{document}
+\maketitle
+
+%%%%%%%%%%%%%%%%%%%%%%%
+% FOR A NUMBERED LIST
+% \begin{enumerate}
+% \item Your_Item
+% \end{enumerate}
+%%%%%%%%%%%%%%%%%%%%%%%
+% FOR A BULLETED LIST
+% \begin{itemize}
+% \item Your_Item
+% \end{itemize}
+%%%%%%%%%%%%%%%%%%%%%%%
+% TO IMPORT AN IMAGE
+% \includegraphics[width=\textwidth]{name_of_file}
+% \textwidth makes the picture the width of the paragraphs
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% TO CREATE A FIGURE WITH A NUMBER AND CAPTION
+% \begin{figure}
+% \includegraphics[width=\textwidth]{image}
+% \caption{Your Caption Goes Here}
+% \label{your_label}
+% \end{figure}
+% REFER TO YOUR FIGURE LATER WITH
+% \ref{your_label}
+% LABELS NEED TO BE ONE WORD
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% TO ADD CODE
+% \begin{codefont}
+% Some code in "courier" font
+%\end{codefont}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Aim}
+	\paragraph{} Perform concurrent ODD-Even Merge sort using HPC infrastructure (preferably BBB) using Python/Scala/ Java/ C++.
+	
+\section{Objective}
+	To develop concurrent programming and multi-core programming skills for odd-even merge sort using HPC infrastructure.  
+	
+\section{Software Requirements}
+	\begin{itemize}
+		\item Linux or Windows Operating System
+		\item Gcc Compiler
+	\end{itemize}
+	
+\section{Mathematical Model} 
+	S 	= {s, e, x, y, fme, DD, NDD, memshared}  											\\\\
+	S                      =         Initial State  										\\
+	E 	=          End State  																\\
+	X	=           Input Value{unsorted array} 											\\
+	Y	=          Output {sorted array using odd-even merge sort} Fme 	= 	Main function 	\\
+	DD 	= 	Deterministic data 																\\
+	NDD	= 	Non-deterministic data 															\\
+	Memshared        =  	Core that is used for execution i.e. core1/core2 BeagleBone 	\\
+	
+	
+\section{Theory}
+	\subsection{Odd-Even Merge Sort} 
+	Odd–even sort is a relatively simple sorting algorithm, developed originally for use on parallel processors with local interconnections. It is a comparison sort related to bubble sort, with which it shares many characteristics. It functions by comparing all odd/even indexed pairs of adjacent elements in the list and, if a pair is in the wrong order (the first is larger than the second) the elements are switched. The next step repeats this for even/odd indexed pairs (of adjacent elements). Then it alternates between odd/even and even/odd steps until the list is sorted.
+	
+	\subsection{Merge Sort}
+	Merge sort (also commonly spelled mergesort) is an efficient, general-purpose, comparison -based sorting algorithm. Most implementations produce a stable sort, which means that the implementation preserves the input order of equal elements in the sorted output. Mergesort is a divide and conquer algorithm that was invented by John von Neumann in 1945.  
+	
+	\subsection{Example}
+	Merging the two lists a1,a2,...,an and b1,b2,...,bn, where n is a power of 2. 
+	\includegraphics[width=\textwidth]{oddeven_example}
+		
+	\subsection{Beaglebone Black}
+	\textbf{BeagleBone Black Overview:}\\ 
+	The BeagleBone Black is the latest addition to the BeagleBoard.org family and like its predecessors, is designed to address the Open Source Community, early adopters, and anyone interested in a low cost ARM Cortex-A8 based processor. It has been equipped with a minimum set of features to allow the user to experience the power of the processor and is not intended as a full development platform as many of the features and interfaces supplied by the processor are not accessible from the Beagle Bone Black via on board support of some interfaces. It is not a complete product designed to do any particular function. It is a foundation for experimentation and learning how to program the processor and to access the peripherals by the creation of your own software and hardware. It also offers access to many of the interfaces and allows for the use of add-on boards called capes, to add many different combinations of features. A user may also develop their own board or add their own circuitry.
+	
+	\textbf{Board Component Locations:}\\ 
+	This section describes the key components on the board. It provides information on their location and function. Familiarize yourself with the various components on the board. 
+	\begin{itemize}
+		\item Connectors, LEDs, and Switches 
+		\item DC Power is the main DC input that accepts 5V power. 
+		\item Power Button alerts the processor to initiate the power down sequence.  
+		\item 10/100 Ethernet is the connection to the LAN. 
+		\item Serial Debug is the serial debug port. 
+		\item USB Client is a mini USB connection to a PC that can also power the board. 
+		\item BOOT switch can be used to force a boot from the SD card. 
+		\item There are four blue LEDS that can be used by the user. 
+		\item Reset Button allows the user to reset the processor. 
+		\item uSD slot is where a uSD card can be installed. 
+		\item microHDMI connector is where the display is connected to. 
+		\item USB Host can be connected different USB interfaces such asWi-Fi, BT,Keyboard, etc  	
+	\end{itemize}
+	
+	\textbf{Features of Beaglebone Black}\\
+	\includegraphics[width=\textwidth]{features_bbb.png}
+	
+	\textbf{Key Components}
+	\begin{itemize}
+		\item Sitara AM3359AZCZ100 is the processor for the board. 
+		\item Micron 512MB DDR3L is the Dual Data Rate RAM memory. 
+		\item TPS65217C PMIC provides the power rails to the various components on the board. 
+		\item SMSC Ethernet PHY is the physical interface to the network. 
+		\item Micron eMMC is an onboard MMC chip that holds up to 2GB of data. 
+		\item HDMI Framer provides control for an HDMI or DVI-D display with an adapter. 
+	\end{itemize}
+	\vspace{30px}
+	
+	
+	\textbf{Connectivity}
+	\begin{itemize}
+		\item Connect the small connector on the USB cable to the board as shown in Figure 1. The connector is on the bottom side of the board. 
+		\item Connect the large connector of the USB cable to your PC or laptop USB port. 
+		\item The board will power on and the power LED will be on as shown in Figure 2 below. 
+	\end{itemize}
+	
+	\includegraphics[width=\textwidth]{bbb_01}
+	
+	\begin{itemize}
+		\item Apply Power: 
+		The final step is to plug in the DC power supply to the DC power jack as shown in Figure4 below. 
+		
+		\item Booting the Board: 
+		As soon as the power is applied to the board, it will start the booting up process. When the board starts to boot the LEDs will come on in sequence as shown in Figure 5 below. It will take a few seconds for the status LEDs to come on, so be patient. The LEDs will be flashing in an erratic manner as it boots the Linux kernel. 
+	\end{itemize}
+	
+	\includegraphics[width=\textwidth]{bbb_02}
+	
+	\subsection{Steps to run program in Beaglebone Black}
+	1.	In red hat terminal we need to type following command for accessing the beagle bone terminal. 
+	ssh 192.168.7.2 \\
+	2.	Open another redhat terminal for copying the python program from redhat to beagle bone by using command: 
+	scp filename.py root@192.168.7.2: \\
+	3.	Now open beagle bone terminal to check whether program is copied or not by using command ls. \\
+	4.	To run the program write following command in beagle bone terminal. 
+	python filename.cpp \\
+	
+\section{Algorithm}
+	\subsection{Odd-Even Merge Sort}
+	template <class T> 									\\
+	void OddEvenSort (T a[], int n) 					\\
+	{ for (int i = 0 ; i < n ; i++) 					\\
+		{ if (i \& 1) // 'i' is odd 					\\
+			{ for (int j = 2 ; j < n ; j += 2) 			\\
+				{ if (a[j] < a[j-1]) swap (a[j-			\\
+					1], a[j]) ; 						\\
+				} 										\\
+			} else 										\\
+			{ 											\\
+				for (int j = 1 ; j < n ; j += 2) { 		\\
+					if (a[j] < a[j-1]) 					\\
+					swap (a[j-1], a[j]) ; 				\\
+				} 										\\
+			} 											\\
+		} 												\\
+	} 													\\
+														\\
+	
+	\subsection{Merge Sort}
+	function merge\_sort(node head) 								\\ 
+	if (head == nil)  	return nil 								\\
+	var node array[32]; initially all nil var 					\\
+	node result 												\\
+	var node next var int i result = head						\\ 
+	// merge nodes into array while 							\\
+	(result != nil) next = result.next;  	result.next = nil 	\\
+	for(i = 0; (i < 32) \&\& (array[i] != nil); i += 1) 		\\
+	result = merge(array[i], result) 							\\
+	array[i] = nil 												\\
+	// do not go past end of array if (i == 32)					\\ 
+	i -= 1 array[i] = result 									\\
+	result = next 												\\
+	// merge array into single list								\\ 
+	result = nil 												\\
+	for (i = 0; i < 32; i += 1) 								\\
+		result = merge(array[i], result) 						\\
+	return 														\\
+	result 														\\
+	
+	\subsection{Parallel Odd Even Sort}
+	void ODD-EVEN-PAR(n) 										\\
+	{ 															\\
+		id = process label 										\\
+		for (i= 1; i<= n; i++) 									\\
+		{ 														\\
+			if (i is odd) 										\\
+				compare-and-exchangemin(id+1);					\\
+			else												\\
+				compare-and-exchangemax(id-1);					\\
+			if (i is even)										\\
+				compare-andexchange-min(id+1); 					\\
+			else 												\\
+				compare-and-exchange-max(id-1); 				\\
+		} 														\\
+	}															\\
+
+	\subsection{Complexity}
+		O(log2n)
+
+\section{Testing}
+\subsection{Positive Testing}
+
+
+\subsection{Negative Testing}
+\includegraphics[width=\textwidth]{oddeven_negative}
+
+\vspace{50px}
+
+
+\section{Conclusion}
+From this assignment we have studied concept of OBST and developed time and space efficient algorithm using multicore , concurrent environment.  
+\vspace{20px}
+\begin{center}
+	\begin{tabular}
+		{|c|c|c|c|}\hline
+		{\bf Roll No.}		&{\bf Name of Student}		&{\bf Date of Performance}  				&{\bf Date of Submission}  \\ \hline
+		{302}	&	{Abhinav Bakshi}& 	{15/3/16}	&  {17/3/16}\\ \hline
+	\end{tabular}\\ 
+\end{center}
+\end{document}

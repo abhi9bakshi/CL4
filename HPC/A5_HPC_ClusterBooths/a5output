@@ -1,0 +1,51 @@
+// Assignment No. 5(Booth's algo)
+
+
+dypcoe@client1:~$ scp booth.c root@192.168.7.2:
+Debian GNU/Linux 7
+
+BeagleBoard.org BeagleBone Debian Image 2014-05-14
+
+Support/FAQ: http://elinux.org/Beagleboard:BeagleBoneBlack_Debian
+booth.c                                       100% 5148     5.0KB/s   00:00    
+dypcoe@client1:~$ ssh root@192.168.7.2
+Debian GNU/Linux 7
+
+BeagleBoard.org BeagleBone Debian Image 2014-05-14
+
+Support/FAQ: http://elinux.org/Beagleboard:BeagleBoneBlack_Debian
+Last login: Thu May 15 03:36:15 2014 from client1-2.local
+root@beaglebone:~# ls
+booth.c  direction  export  sys  unexport  value
+root@beaglebone:~# gcc booth.c
+root@beaglebone:~# ./a.out
+		BOOTH'S MULTIPLICATION ALGORITHM
+Enter two numbers to multiply: 
+Both must be less than 16
+Enter A: 12
+Enter B: 3 
+
+Expected product = 36
+
+Binary Equivalents are: 
+A = 01100
+B = 00011
+B'+ 1 = 11101
+
+
+-----------------------------------------------------------------
+AR-SHIFT: 00000:00110
+-----------------------------------------------------------------
+AR-SHIFT: 00000:00011
+-----------------------------------------------------------------
+SUB B: 11101:00011
+AR-SHIFT: 11110:10001
+-----------------------------------------------------------------
+AR-SHIFT: 11111:01000
+-----------------------------------------------------------------
+ADD B: 00010:01000
+AR-SHIFT: 00001:00100
+
+Product is = 
+0000100100root@beaglebone:~# 
+

@@ -1,0 +1,377 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.3.28)  6 APR 2016 04:17
+entering extended mode
+**B9_BIA_Mall.tex
+(B9_BIA_Mall.tex
+LaTeX2e <2014/05/01>
+Babel <3.9l> and hyphenation patterns for 68 languages loaded.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size12.clo"
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count87
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(B9_BIA_Mall.aux
+
+LaTeX Warning: Label `fig:usecase' multiply defined.
+
+)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+ ("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count88
+\scratchdimen=\dimen105
+\scratchbox=\box26
+\nofMPsegments=\count89
+\nofMParguments=\count90
+\everyMPshowfont=\toks15
+\MPscratchCnt=\count91
+\MPscratchDim=\dimen106
+\MPnumerator=\count92
+\makeMPintoPDFobject=\count93
+\everyMPtoPDFconversion=\toks16
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 26.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 26.
+
+Overfull \hbox (47.81496pt too wide) in paragraph at lines 70--71
+[]\OT1/cmr/m/n/12 S=X,Y,Mem-shared,DD,NDD,Fme,D,Dsupp,conf,lk,ck,subset(),aprio
+ri-gen(),rules 
+ []
+
+
+Overfull \hbox (2.5627pt too wide) in paragraph at lines 84--87
+[]\OT1/cmr/m/n/12 Supp= fre-quency count of item-set in D dataset sup-port=supp
+ort(A+B)/N
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--87
+
+ []
+
+[1
+
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no Å in font cmr12!
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no Å in font cmr12!
+ [2]
+Underfull \hbox (badness 10000) in paragraph at lines 193--197
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 198--200
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 201--203
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 204--207
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 208--210
+
+ []
+
+<association.png, id=12, 685.8122pt x 430.60875pt>
+File: association.png Graphic file (type png)
+ <use association.png>
+Package pdftex.def Info: association.png used on input line 217.
+(pdftex.def)             Requested size: 390.0pt x 244.87788pt.
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 217--218
+ [][] 
+ []
+
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+[3]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 241.
+
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 241.
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+ [4 <./association.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 255--325
+
+ []
+
+[5]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 421.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 421.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 421.
+
+Overfull \hbox (23.43301pt too wide) in paragraph at lines 421--430
+ [] 
+ []
+
+[6]
+Underfull \hbox (badness 10000) in paragraph at lines 436--464
+
+ []
+
+[7]
+Underfull \hbox (badness 10000) in paragraph at lines 465--467
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 468--470
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 471--473
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 474--476
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 477--481
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 482--484
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 485--487
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 488--622
+
+ []
+
+[8] [9]
+Underfull \hbox (badness 10000) in paragraph at lines 623--625
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 629--633
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 634--642
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 643--647
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 648--652
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 653--657
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 658--662
+
+ []
+
+Missing character: There is no ¬ in font cmr12!
+Missing character: There is no ë in font cmr12!
+Missing character: There is no ¬ in font cmr12!
+Missing character: There is no í in font cmr12!
+Missing character: There is no ¬ in font cmr12!
+Missing character: There is no ë in font cmr12!
+Missing character: There is no ¬ in font cmr12!
+Missing character: There is no í in font cmr12!
+Missing character: There is no ¬ in font cmr12!
+Missing character: There is no ì in font cmr12!
+Missing character: There is no ¬ in font cmr12!
+Missing character: There is no î in font cmr12!
+
+Underfull \hbox (badness 10000) in paragraph at lines 663--767
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 663--767
+
+ []
+
+[10]
+Underfull \hbox (badness 10000) in paragraph at lines 768--770
+
+ []
+
+
+Overfull \hbox (11.97638pt too wide) in paragraph at lines 771--822
+\OT1/cmr/m/n/12 6 nap-kins,house keep-ing prod-ucts = whole milk 0.001321810 0.
+8125000 3.179840 
+ []
+
+[11] <img1.png, id=44, 508.90125pt x 358.33875pt>
+File: img1.png Graphic file (type png)
+ <use img1.png>
+Package pdftex.def Info: img1.png used on input line 826.
+(pdftex.def)             Requested size: 390.0pt x 274.62582pt.
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 826--828
+ [][] 
+ []
+
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+
+Overfull \hbox (9.00931pt too wide) in paragraph at lines 833--842
+\OT1/cmr/m/n/12 1. Data Min-ing Con-cepts and Tech-niques,Second Edi-tion,Jiawe
+i Han,Micheline
+ []
+
+
+Overfull \hbox (22.3772pt too wide) in paragraph at lines 833--842
+\OT1/cmr/m/n/12 3. http://searchdatamanagement.techtarget.com/definition/busine
+ss-intelligence 
+ []
+
+
+Overfull \hbox (9.10419pt too wide) in paragraph at lines 833--842
+\OT1/cmr/m/n/12 5.http://searchbusinessanalytics.techtarget.com/definition/busi
+ness-analytics-
+ []
+
+[12]
+Overfull \hbox (86.7334pt too wide) in paragraph at lines 845--849
+ [][] 
+ []
+
+[13 <./img1.png>] (B9_BIA_Mall.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 1164 strings out of 493698
+ 15141 string characters out of 3144394
+ 72183 words of memory out of 3000000
+ 4527 multiletter control sequences out of 15000+200000
+ 9101 words of font info for 32 fonts, out of 3000000 for 9000
+ 1025 hyphenation exceptions out of 8191
+ 27i,10n,19p,518b,303s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Pr
+ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Program F
+iles/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKT
+eX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fo
+nts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on B9_BIA_Mall.pdf (13 pages, 539394 bytes).
+PDF statistics:
+ 70 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+

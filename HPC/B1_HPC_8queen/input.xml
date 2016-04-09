@@ -1,0 +1,6 @@
+<collection input="Position of first Queen">
+<position type="constants">
+	<x>1</x>
+	<y>2</y>
+</position>
+</collection>

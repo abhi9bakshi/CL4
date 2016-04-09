@@ -1,0 +1,16 @@
+// Assignment No. 3(coverage)
+
+pccoe@master:~$ mpicc Square_MPI1.c -o abc
+
+pccoe@master:~$ mpirun -np 2 ./abc
+
+The data to square :  50 100
+
+The squared numbers :  2500 10000
+
+Runtime = 0.000311
+
+Node 1 will square 100
+
+pccoe@master:~$ 
+

@@ -1,0 +1,7 @@
+student@ubuntu:~$ python server.py
+Connected by ('127.0.0.1', 52393)
+Received [7, 1, 9, 12, 6, 88, 11, 65]
+[[None, 1, [None, 6, None]], 7, [None, 9, [[None, 11, None], 12, [[None, 65, None], 88, None]]]]
+
+
+student@ubuntu:~$ python client.py

@@ -1,0 +1,176 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.3.28)  5 APR 2016 15:29
+entering extended mode
+**A4_HPC_ClusterTime.tex
+(A4_HPC_ClusterTime.tex
+LaTeX2e <2014/05/01>
+Babel <3.9l> and hyphenation patterns for 68 languages loaded.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size12.clo"
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count87
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(A4_HPC_ClusterTime.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+
+("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count88
+\scratchdimen=\dimen105
+\scratchbox=\box26
+\nofMPsegments=\count89
+\nofMParguments=\count90
+\everyMPshowfont=\toks15
+\MPscratchCnt=\count91
+\MPscratchDim=\dimen106
+\MPnumerator=\count92
+\makeMPintoPDFobject=\count93
+\everyMPtoPDFconversion=\toks16
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 26.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 26.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 64.
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 64.
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--79
+
+ []
+
+[1
+
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 86--87
+
+ []
+
+<clustertime_diag.png, id=10, 461.47406pt x 294.34969pt>
+File: clustertime_diag.png Graphic file (type png)
+
+<use clustertime_diag.png>
+Package pdftex.def Info: clustertime_diag.png used on input line 88.
+(pdftex.def)             Requested size: 390.0pt x 248.76115pt.
+
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 88--89
+[][] 
+ []
+
+[2 <./clustertime_diag.png>]
+<clustertime_diag2.jpg, id=14, 710.655pt x 389.95688pt>
+File: clustertime_diag2.jpg Graphic file (type jpg)
+
+<use clustertime_diag2.jpg>
+Package pdftex.def Info: clustertime_diag2.jpg used on input line 98.
+(pdftex.def)             Requested size: 390.0pt x 214.00687pt.
+ [3] [4 <./clustertime_diag2.jpg>]
+<clustertime_positive.png, id=21, 606.01407pt x 97.86563pt>
+File: clustertime_positive.png Graphic file (type png)
+
+<use clustertime_positive.png>
+Package pdftex.def Info: clustertime_positive.png used on input line 106.
+(pdftex.def)             Requested size: 390.0pt x 62.9817pt.
+
+<clustertime_negative.png, id=22, 603.0028pt x 82.80937pt>
+File: clustertime_negative.png Graphic file (type png)
+
+<use clustertime_negative.png>
+Package pdftex.def Info: clustertime_negative.png used on input line 108.
+(pdftex.def)             Requested size: 390.0pt x 53.55756pt.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 117.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 117.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 117.
+ [5 <./clustertime_positive.png> <./clustertime_negative.png>]
+Overfull \hbox (45.4834pt too wide) in paragraph at lines 128--132
+ [] 
+ []
+
+<clustertime_plaga.png, id=27, 468.24937pt x 481.8pt>
+File: clustertime_plaga.png Graphic file (type png)
+
+<use clustertime_plaga.png>
+Package pdftex.def Info: clustertime_plaga.png used on input line 136.
+(pdftex.def)             Requested size: 390.0pt x 401.3054pt.
+ [6] [7 <./clustertime_plaga.png>]
+(A4_HPC_ClusterTime.aux) ) 
+Here is how much of TeX's memory you used:
+ 1180 strings out of 493698
+ 15730 string characters out of 3144394
+ 70126 words of memory out of 3000000
+ 4539 multiletter control sequences out of 15000+200000
+ 9408 words of font info for 33 fonts, out of 3000000 for 9000
+ 1025 hyphenation exceptions out of 8191
+ 27i,6n,19p,702b,185s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfo
+nts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
+mcsc10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.p
+fb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Pr
+ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Fil
+es/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on A4_HPC_ClusterTime.pdf (7 pages, 245272 bytes).
+PDF statistics:
+ 55 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 26 words of extra memory for PDF output out of 10000 (max. 10000000)
+
